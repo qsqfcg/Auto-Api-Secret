@@ -115,8 +115,7 @@ rclone执行命令.\rclone authorize "onedrive" "id" "机密"，弹出确认框�
   
   这整个项目都是我根据以往看过的代码整合的，ORZ。
   
-  有修改建议可以发邮件给我:
-  wz.lxh@outlook.com
+  原作者邮箱：wz.lxh@outlook.com
   
   基安id-卷腿毛菌
   
